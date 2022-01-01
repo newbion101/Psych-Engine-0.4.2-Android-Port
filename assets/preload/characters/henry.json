@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				-215
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "henry idle"
+		},
+		{
+			"offsets": [
+				190,
+				-186
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "henry left"
+		},
+		{
+			"offsets": [
+				140,
+				-191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "henry right"
+		},
+		{
+			"offsets": [
+				80,
+				-232
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "henry down"
+		},
+		{
+			"offsets": [
+				164,
+				-138
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "henry up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HenryStickmin",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "henry",
+	"flip_x": false,
+	"healthbar_colors": [
+		242,
+		242,
+		242
+	],
+	"camera_position": [
+		-80,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

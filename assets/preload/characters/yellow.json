@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-190
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "impostor idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-233
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "imposter left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-240
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "impostor right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-240
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "impostor down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				-229
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "impostor up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-240
+			],
+			"anim": "singALT",
+			"fps": 24,
+			"name": "impostor alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				516,
+				-240
+			],
+			"anim": "singDEAD",
+			"fps": 24,
+			"name": "impostor dead",
+			"indices": []
+		},
+		{
+			"offsets": [
+				516,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDEADLOOP",
+			"indices": [],
+			"name": "impostor deadLOOP"
+		},
+		{
+			"offsets": [
+				110,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singALTLOOP",
+			"indices": [],
+			"name": "impostor altLOOP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yellow",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "yellow",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		212,
+		82
+	],
+	"camera_position": [
+		-70,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
