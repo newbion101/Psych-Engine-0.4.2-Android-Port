@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="greyImpostor.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GREY0000" x="0" y="0" width="592" height="566"/>
+	<SubTexture name="GREY0001" x="0" y="0" width="592" height="566"/>
+	<SubTexture name="GREY GREY0000" x="592" y="0" width="586" height="566" frameX="-14" frameY="-76" frameWidth="742" frameHeight="676"/>
+	<SubTexture name="GREY GREY0001" x="1178" y="0" width="566" height="554" frameX="-54" frameY="-99" frameWidth="742" frameHeight="676"/>
+	<SubTexture name="GREY GREY0002" x="0" y="566" width="642" height="554" frameX="0" frameY="-62" frameWidth="742" frameHeight="676"/>
+	<SubTexture name="GREY GREY0003" x="642" y="566" width="635" height="554" frameX="-16" frameY="-122" frameWidth="742" frameHeight="676"/>
+	<SubTexture name="GREY GREY0004" x="1277" y="566" width="656" height="581" frameX="-47" frameY="0" frameWidth="742" frameHeight="676"/>
+	<SubTexture name="GREY GREY0005" x="0" y="1147" width="731" height="554" frameX="-11" frameY="-114" frameWidth="742" frameHeight="676"/>
+	<SubTexture name="GREY GREY LOOP0000" x="592" y="0" width="586" height="566" frameX="-14" frameY="-76" frameWidth="742" frameHeight="676"/>
+	<SubTexture name="GREY GREY LOOP0001" x="1178" y="0" width="566" height="554" frameX="-54" frameY="-99" frameWidth="742" frameHeight="676"/>
+	<SubTexture name="GREY GREY LOOP0002" x="0" y="566" width="642" height="554" frameX="0" frameY="-62" frameWidth="742" frameHeight="676"/>
+	<SubTexture name="GREY GREY LOOP0003" x="642" y="566" width="635" height="554" frameX="-16" frameY="-122" frameWidth="742" frameHeight="676"/>
+	<SubTexture name="GREY GREY LOOP0004" x="1277" y="566" width="656" height="581" frameX="-47" frameY="0" frameWidth="742" frameHeight="676"/>
+	<SubTexture name="GREY GREY LOOP0005" x="0" y="1147" width="731" height="554" frameX="-11" frameY="-114" frameWidth="742" frameHeight="676"/>
+	<SubTexture name="GREY LOOP0000" x="731" y="1147" width="610" height="568" frameX="0" frameY="0" frameWidth="610" frameHeight="570"/>
+	<SubTexture name="GREY LOOP0001" x="731" y="1147" width="610" height="568" frameX="0" frameY="0" frameWidth="610" frameHeight="570"/>
+	<SubTexture name="GREY LOOP0002" x="1341" y="1147" width="575" height="566" frameX="-25" frameY="-4" frameWidth="610" frameHeight="570"/>
+	<SubTexture name="GREY LOOP0003" x="1341" y="1147" width="575" height="566" frameX="-25" frameY="-4" frameWidth="610" frameHeight="570"/>
+	<SubTexture name="GREY LOOP0004" x="0" y="1715" width="581" height="566" frameX="-24" frameY="-4" frameWidth="610" frameHeight="570"/>
+	<SubTexture name="GREY LOOP0005" x="0" y="1715" width="581" height="566" frameX="-24" frameY="-4" frameWidth="610" frameHeight="570"/>
+	<SubTexture name="GREY sad0000" x="581" y="1715" width="583" height="566"/>
+	<SubTexture name="GREY sad0001" x="581" y="1715" width="583" height="566"/>
+	<SubTexture name="GREY sad LOOP0000" x="1164" y="1715" width="626" height="568" frameX="0" frameY="0" frameWidth="638" frameHeight="570"/>
+	<SubTexture name="GREY sad LOOP0001" x="1164" y="1715" width="626" height="568" frameX="0" frameY="0" frameWidth="638" frameHeight="570"/>
+	<SubTexture name="GREY sad LOOP0002" x="0" y="2283" width="632" height="566" frameX="-6" frameY="-4" frameWidth="638" frameHeight="570"/>
+	<SubTexture name="GREY sad LOOP0003" x="0" y="2283" width="632" height="566" frameX="-6" frameY="-4" frameWidth="638" frameHeight="570"/>
+	<SubTexture name="GREY sad LOOP0004" x="632" y="2283" width="627" height="566" frameX="-9" frameY="-4" frameWidth="638" frameHeight="570"/>
+	<SubTexture name="GREY sad LOOP0005" x="632" y="2283" width="627" height="566" frameX="-9" frameY="-4" frameWidth="638" frameHeight="570"/>
+</TextureAtlas>
