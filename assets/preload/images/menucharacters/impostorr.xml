@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="impostorr.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pico menu asset instance 10000" x="0" y="0" width="727" height="356" frameX="-16" frameY="-3" frameWidth="778" frameHeight="363"/>
+	<SubTexture name="Pico menu asset instance 10001" x="0" y="0" width="727" height="356" frameX="-16" frameY="-3" frameWidth="778" frameHeight="363"/>
+	<SubTexture name="Pico menu asset instance 10002" x="727" y="0" width="728" height="351" frameX="-14" frameY="-8" frameWidth="778" frameHeight="363"/>
+	<SubTexture name="Pico menu asset instance 10003" x="727" y="0" width="728" height="351" frameX="-14" frameY="-8" frameWidth="778" frameHeight="363"/>
+	<SubTexture name="Pico menu asset instance 10004" x="0" y="356" width="751" height="351" frameX="-2" frameY="-8" frameWidth="778" frameHeight="363"/>
+	<SubTexture name="Pico menu asset instance 10005" x="0" y="356" width="751" height="351" frameX="-2" frameY="-8" frameWidth="778" frameHeight="363"/>
+	<SubTexture name="Pico menu asset instance 10006" x="751" y="356" width="751" height="361" frameX="-5" frameY="-2" frameWidth="778" frameHeight="363"/>
+	<SubTexture name="Pico menu asset instance 10007" x="751" y="356" width="751" height="361" frameX="-5" frameY="-2" frameWidth="778" frameHeight="363"/>
+	<SubTexture name="Pico menu asset instance 10008" x="0" y="717" width="777" height="361" frameX="0" frameY="-2" frameWidth="778" frameHeight="363"/>
+	<SubTexture name="Pico menu asset instance 10009" x="0" y="717" width="777" height="361" frameX="0" frameY="-2" frameWidth="778" frameHeight="363"/>
+	<SubTexture name="Pico menu asset instance 10010" x="777" y="717" width="759" height="363" frameX="-19" frameY="0" frameWidth="778" frameHeight="363"/>
+	<SubTexture name="Pico menu asset instance 10011" x="777" y="717" width="759" height="363" frameX="-19" frameY="0" frameWidth="778" frameHeight="363"/>
+	<SubTexture name="Pico menu asset instance 10012" x="0" y="0" width="727" height="356" frameX="-16" frameY="-3" frameWidth="778" frameHeight="363"/>
+	<SubTexture name="Pico menu asset instance 10013" x="0" y="0" width="727" height="356" frameX="-16" frameY="-3" frameWidth="778" frameHeight="363"/>
+</TextureAtlas>
