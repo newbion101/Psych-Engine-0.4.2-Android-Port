@@ -1,0 +1,75 @@
+{
+	"storyName": "AIRSHIP",
+	"hideFreeplay": false,
+	"weekBackground": "airship",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"impostorr",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Watch-Out",
+			"yellow",
+			[
+				255,
+				231,
+				112
+			]
+		],
+		[
+			"D'low",
+			"yellow",
+			[
+				255,
+				231,
+				112
+			]
+		],
+		[
+			"Apprehensive",
+			"white",
+			[
+				208,
+				229,
+				254
+			]
+		],
+		[
+			"Double-Kill",
+			"whiteblack",
+			[
+				188,
+				209,
+				255
+			]
+		],
+		[
+			"Double Trouble",
+			"impostors",
+			[
+				255,
+				160,
+				34
+			]
+		],
+		[
+			"Dual Ejection",
+			"impostors-alt",
+			[
+				135,
+				235,
+				115
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "WeekAirship"
+}

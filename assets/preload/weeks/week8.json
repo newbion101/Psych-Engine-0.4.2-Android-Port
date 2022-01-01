@@ -1,0 +1,39 @@
+{
+	"storyName": "BONUS SONGS",
+	"hideFreeplay": false,
+	"weekBackground": "bank",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Titular",
+			"henry",
+			[
+				235,
+				235,
+				255
+			]
+		],
+		[
+			"Swag",
+			"jorsawsee",
+			[
+				79,
+				127,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"henry",
+		"bf",
+		"gf"
+	],
+	"weekName": "WeekBonus"
+}
